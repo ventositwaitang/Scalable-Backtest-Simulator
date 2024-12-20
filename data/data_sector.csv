@@ -1,0 +1,264 @@
+ticker,bics_sector
+1332 JT,"Consumer, Non-cyclical"
+1333 JT,"Consumer, Non-cyclical"
+1334 JT,"Consumer, Non-cyclical"
+1605 JT,Energy
+1721 JT,Industrial
+1801 JT,Industrial
+1802 JT,Industrial
+1803 JT,Industrial
+1808 JT,"Consumer, Cyclical"
+1812 JT,Industrial
+1925 JT,"Consumer, Cyclical"
+1928 JT,"Consumer, Cyclical"
+1963 JT,Industrial
+2002 JT,"Consumer, Non-cyclical"
+2269 JT,"Consumer, Non-cyclical"
+2282 JT,"Consumer, Non-cyclical"
+2413 JT,Communications
+2432 JT,Technology
+2501 JT,"Consumer, Non-cyclical"
+2502 JT,"Consumer, Non-cyclical"
+2503 JT,"Consumer, Non-cyclical"
+2531 JT,"Consumer, Non-cyclical"
+2768 JT,"Consumer, Cyclical"
+2801 JT,"Consumer, Non-cyclical"
+2802 JT,"Consumer, Non-cyclical"
+2871 JT,"Consumer, Non-cyclical"
+2914 JT,"Consumer, Non-cyclical"
+3086 JT,"Consumer, Cyclical"
+3099 JT,"Consumer, Cyclical"
+3101 JT,Industrial
+3103 JT,"Consumer, Cyclical"
+3105 JT,"Consumer, Cyclical"
+3110 JT,"Consumer, Cyclical"
+3289 JT,Financial
+3382 JT,"Consumer, Non-cyclical"
+3401 JT,Basic Materials
+3402 JT,Basic Materials
+3405 JT,Basic Materials
+3407 JT,Basic Materials
+3436 JT,Technology
+3659 JT,Technology
+3861 JT,Basic Materials
+3863 JT,Basic Materials
+3864 JT,Basic Materials
+3865 JT,Basic Materials
+3893 JT,Basic Materials
+4004 JT,Basic Materials
+4005 JT,Basic Materials
+4021 JT,Basic Materials
+4041 JT,Basic Materials
+4042 JT,Basic Materials
+4043 JT,Basic Materials
+4061 JT,Basic Materials
+4063 JT,Basic Materials
+4151 JT,"Consumer, Non-cyclical"
+4183 JT,Basic Materials
+4188 JT,Basic Materials
+4208 JT,Basic Materials
+4272 JT,Basic Materials
+4324 JT,Communications
+4385 JT,Communications
+4452 JT,"Consumer, Non-cyclical"
+4502 JT,"Consumer, Non-cyclical"
+4503 JT,"Consumer, Non-cyclical"
+4506 JT,"Consumer, Non-cyclical"
+4507 JT,"Consumer, Non-cyclical"
+4519 JT,"Consumer, Non-cyclical"
+4523 JT,"Consumer, Non-cyclical"
+4543 JT,"Consumer, Non-cyclical"
+4568 JT,"Consumer, Non-cyclical"
+4578 JT,"Consumer, Non-cyclical"
+4631 JT,Basic Materials
+4661 JT,"Consumer, Cyclical"
+4689 JT,Communications
+4704 JT,Communications
+4751 JT,Communications
+4755 JT,Communications
+4901 JT,"Consumer, Non-cyclical"
+4902 JT,Technology
+4911 JT,"Consumer, Non-cyclical"
+5002 JT,Energy
+5019 JT,Energy
+5020 JT,Energy
+5101 JT,"Consumer, Cyclical"
+5108 JT,"Consumer, Cyclical"
+5201 JT,Industrial
+5202 JT,Industrial
+5214 JT,Industrial
+5232 JT,Industrial
+5233 JT,Industrial
+5301 JT,Basic Materials
+5332 JT,Industrial
+5333 JT,"Consumer, Cyclical"
+5401 JT,Basic Materials
+5406 JT,Basic Materials
+5411 JT,Basic Materials
+5413 JT,Basic Materials
+5541 JT,Basic Materials
+5631 JT,Basic Materials
+5703 JT,Basic Materials
+5706 JT,Basic Materials
+5707 JT,Industrial
+5711 JT,Basic Materials
+5713 JT,Basic Materials
+5714 JT,Basic Materials
+5715 JT,Basic Materials
+5801 JT,Industrial
+5802 JT,"Consumer, Cyclical"
+5803 JT,Industrial
+5831 JT,Financial
+5901 JT,Industrial
+6098 JT,"Consumer, Non-cyclical"
+6103 JT,Industrial
+6113 JT,Industrial
+6178 JT,Financial
+6273 JT,Industrial
+6301 JT,Industrial
+6302 JT,Industrial
+6305 JT,Industrial
+6326 JT,Industrial
+6361 JT,Industrial
+6366 JT,Industrial
+6367 JT,Industrial
+6471 JT,Industrial
+6472 JT,Industrial
+6473 JT,"Consumer, Cyclical"
+6479 JT,Industrial
+6501 JT,Industrial
+6502 JT,Industrial
+6503 JT,Industrial
+6504 JT,Industrial
+6506 JT,Industrial
+6508 JT,Industrial
+6594 JT,Industrial
+6645 JT,Industrial
+6674 JT,Industrial
+6701 JT,Technology
+6702 JT,Technology
+6703 JT,Communications
+6723 JT,Technology
+6724 JT,Technology
+6752 JT,"Consumer, Cyclical"
+6753 JT,"Consumer, Cyclical"
+6758 JT,"Consumer, Cyclical"
+6762 JT,Industrial
+6767 JT,Industrial
+6770 JT,Industrial
+6773 JT,"Consumer, Cyclical"
+6841 JT,Industrial
+6857 JT,Technology
+6861 JT,Industrial
+6902 JT,"Consumer, Cyclical"
+6920 JT,Technology
+6952 JT,Industrial
+6954 JT,Industrial
+6971 JT,Industrial
+6976 JT,Industrial
+6981 JT,Industrial
+6988 JT,Basic Materials
+7003 JT,Industrial
+7004 JT,Industrial
+7011 JT,Industrial
+7012 JT,Industrial
+7013 JT,Industrial
+7186 JT,Financial
+7201 JT,"Consumer, Cyclical"
+7202 JT,"Consumer, Cyclical"
+7203 JT,"Consumer, Cyclical"
+7205 JT,"Consumer, Cyclical"
+7211 JT,"Consumer, Cyclical"
+7261 JT,"Consumer, Cyclical"
+7267 JT,"Consumer, Cyclical"
+7269 JT,"Consumer, Cyclical"
+7270 JT,"Consumer, Cyclical"
+7272 JT,"Consumer, Cyclical"
+7731 JT,Industrial
+7733 JT,"Consumer, Non-cyclical"
+7735 JT,Industrial
+7741 JT,Industrial
+7751 JT,Technology
+7752 JT,Technology
+7762 JT,"Consumer, Cyclical"
+7832 JT,"Consumer, Cyclical"
+7911 JT,"Consumer, Non-cyclical"
+7912 JT,"Consumer, Non-cyclical"
+7951 JT,"Consumer, Cyclical"
+7974 JT,"Consumer, Cyclical"
+8001 JT,"Consumer, Cyclical"
+8002 JT,"Consumer, Cyclical"
+8015 JT,"Consumer, Cyclical"
+8028 JT,"Consumer, Cyclical"
+8031 JT,"Consumer, Cyclical"
+8035 JT,Technology
+8053 JT,"Consumer, Cyclical"
+8058 JT,"Consumer, Cyclical"
+8233 JT,"Consumer, Cyclical"
+8252 JT,"Consumer, Cyclical"
+8253 JT,Financial
+8267 JT,"Consumer, Non-cyclical"
+8270 JT,"Consumer, Non-cyclical"
+8303 JT,Financial
+8304 JT,Financial
+8306 JT,Financial
+8308 JT,Financial
+8309 JT,Financial
+8316 JT,Financial
+8331 JT,Financial
+8332 JT,Financial
+8354 JT,Financial
+8355 JT,Financial
+8411 JT,Financial
+8591 JT,Financial
+8601 JT,Financial
+8604 JT,Financial
+8628 JT,Financial
+8630 JT,Financial
+8697 JT,Financial
+8725 JT,Financial
+8729 JT,Financial
+8750 JT,Financial
+8766 JT,Financial
+8795 JT,Financial
+8801 JT,Financial
+8802 JT,Financial
+8803 JT,Financial
+8804 JT,Financial
+8815 JT,Financial
+8830 JT,Financial
+9001 JT,Industrial
+9005 JT,Industrial
+9007 JT,Industrial
+9008 JT,Industrial
+9009 JT,Industrial
+9020 JT,Industrial
+9021 JT,Industrial
+9022 JT,Industrial
+9062 JT,Industrial
+9064 JT,Industrial
+9101 JT,Industrial
+9104 JT,Industrial
+9107 JT,Industrial
+9147 JT,Industrial
+9201 JT,"Consumer, Cyclical"
+9202 JT,"Consumer, Cyclical"
+9301 JT,Industrial
+9412 JT,Communications
+9432 JT,Communications
+9433 JT,Communications
+9434 JT,Communications
+9437 JT,Communications
+9501 JT,Utilities
+9502 JT,Utilities
+9503 JT,Utilities
+9531 JT,Utilities
+9532 JT,Utilities
+9602 JT,"Consumer, Cyclical"
+9613 JT,Technology
+9681 JT,"Consumer, Cyclical"
+9735 JT,"Consumer, Non-cyclical"
+9766 JT,Technology
+9843 JT,"Consumer, Cyclical"
+9983 JT,"Consumer, Cyclical"
+9984 JT,Communications
