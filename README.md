@@ -4,6 +4,6 @@ A Structured framework allows strategies plug-in (e.g. Grid Scalping, ML for α 
 
 # Example
 
-"
-simulator.ipynb
-"
+'''bash
+Simulator.ipynb
+'''
